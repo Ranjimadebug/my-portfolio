@@ -33,4 +33,4 @@ const App = () => {
   );
 };
 
-export default Apps;
+export default App;
