@@ -131,7 +131,7 @@ const Qualification = () => {
                     Front-End Developer
                   </span>
                   <div className="qualification__calendar">
-                    <i className="uil uil-calendar-alt"></i>2023-Present
+                    <i className="uil uil-calendar-alt"></i> 2023-Present
                   </div>
                 </div>
                 <div>
