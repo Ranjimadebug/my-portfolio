@@ -40,7 +40,7 @@ const Service = () => {
                   Web Application Development
                 </h3>
                 <p className="services__modal-description">
-                  With more than 2 years of experience. Providing quality work
+                  With more than 1+ years of experience. Providing quality work
                   to clients and companies.
                 </p>
                 <ul className="services__modal-services grid">
@@ -174,7 +174,7 @@ const Service = () => {
                 ></i>
                 <h3 className="services__modal-title">Responsive Design</h3>
                 <p className="services__modal-description">
-                  With more than 2 years of experience. Providing quality work
+                  With more than 1+ years of experience. Providing quality work
                   to clients and companies.
                 </p>
                 <ul className="services__modal-services grid">
